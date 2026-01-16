@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- Essential Viewport Meta Tag for Mobile Scaling -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Responsive Website</title>
+    <link rel="stylesheet" href="styleyunk.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>ARTYUNK</h1>
+        <p>        <nav id="nav">
+            <a class="nav-link" href="#">Learn More</a>
+        </nav></p>
+    </header>
+   <main>
+        <section class="section-two">
+                    <h2>Welcome To Artyunk</h2>
+            <p>Artyunk is a creative hub in the heart of Manayunk, on Cresson Street, where artists and 
+                art lovers come together to explore, learn, and connect. We are building a space that 
+                celebrates creativity in all its forms, from casual 
+                sketchers to dedicated makers- to engage with art in a fun, social and supportive environment.
+                </p>
+            <br><h2>Immediate Offerings</h2><br>
+	<h3>Ticketed Art Nights / Social Drawing / Theme Nights</h3><p>Relaxed, interactive evenings where you can draw, socialize, and try something new. Perfect for all skill levels.</p>
+	<br><h3>Specialty Workshops</h3><p>Longer, skill-focused sessions designed to deepen your practice and explore new techniques.</p>
+	<br><h3>Exhibitions & Open Studio Nights</h3><p>Showcasing local talent and inviting the community into the creative process.</p>
+</ul>
+<br><h2>Future Offerings</h2><br>
+    <h3>Studio Memberships</h3><p>Limited, reserved access for ongoing projects in a shared space enviroment.</p>
+    <br><h3>Day Studio Rentals</h3><p>Non-member access to the space for a day of focused, uninterrupted creativity.</p>
+    <br><h3>Short Project Blocks</h3><p>1-2 week rentals for special projects or intensive creative bursts.</p><br>
+            <h2>About Me</h2><p>I am <a href="https://www.linkedin.com/in/taylor-cardamone/" target="_blank" rel="noopener noreferrer">Taylor Cardamone</a>, a graphic designer, fine artist and animator. <br>With Artyunk, my goal is to create a welcoming, inspiring environment where we build a thriving creative community.</p>
+<br><h2>Location & Accessibility</h2><p>Artyunk is located on Cresson Street in Manayunk. The space will be revealed in late spring / early summer. Please note: the studio is not currently handicap accessible at this time.</p>      
+<br><h2>Support Our Vision</h2><p>Want to help bring Artyunk to life? Learn how to support us
+ and join a growing community dedicated to creativity, connection, and the joy of making.</p>
+</section>  
+</main>
+    <footer>
+        <p>&copy; 2026 ARTYUNK - ALL RIGHTS RESERVED</p>
+    </footer>
+</body>
+</html>
