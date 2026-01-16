@@ -63,7 +63,7 @@ footer {
 
 /* Unvisited link */
 a:link {
-    color: #2EE8E5;
+    color: #FFA530;
     text-decoration: none; /* Removes the default underline */
   }
   
@@ -74,7 +74,7 @@ a:link {
   
   /* Mouse over link */
   a:hover {
-    color: #FFA530;
+    color: #2EE8E5;
     text-decoration: underline; /* Adds an underline on hover */
   }
   
@@ -125,3 +125,4 @@ li {
         margin-bottom: 0;
     }
 }
+
