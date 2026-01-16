@@ -138,7 +138,7 @@ a:link {
 header, main, footer {
     padding: 1rem;
     margin: 0.5rem auto;
-    max-width: 600px; /* Optional: Sets a max width for large screens */
+    max-width: 1200px; /* Optional: Sets a max width for large screens */
 }
 
 header {
@@ -176,6 +176,7 @@ li {
         margin-bottom: 0;
     }
 }
+
 
 
 
